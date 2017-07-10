@@ -18,3 +18,7 @@ plt.show()
 # Line Chart
 plt.plot(x,y)
 plt._show()
+
+#whisker plot
+plt.boxplot(x,y)
+plt.show()
