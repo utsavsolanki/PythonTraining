@@ -19,3 +19,4 @@ EXEC spSalesORderDetailByCarrierTrackingNumberOutput @NO = '4911-403C-98' ,  @CT
 PRINT @TOTAL
 PRINT @TOTAL1
 PRINT @TOTAL1
+PRINT @TOTAL1
