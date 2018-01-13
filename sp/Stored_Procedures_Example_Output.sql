@@ -17,5 +17,5 @@ DECLARE @TOTAL1 INT
 EXEC spSalesORderDetailByCarrierTrackingNumberOutput @NO = '4911-403C-98' ,  @CTN = @TOTAL OUT ,
 @CTN1 = @TOTAL1 OUT
 PRINT @TOTAL
-PRINT @TOTAL1
+
 
